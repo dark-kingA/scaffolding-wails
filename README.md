@@ -1,0 +1,2 @@
+# scaffolding-wails
+demo wails
