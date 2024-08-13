@@ -6,3 +6,5 @@
 
 后端 go  wails
 
+## 应用
+<img src="img/demo.jpg">
